@@ -1,0 +1,5 @@
+#1 initUI func have everything about interfaces
+#2 make cal func
+#3 import CalculatorApp in prob1 to 5007-lab8-prob2
+#4 change __name__ to MenuBar
+#5 fix configMenu in code1
